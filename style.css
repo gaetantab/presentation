@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+img {
+	width: 200px;
+    height: 200px;
+}
+
+body {
+
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+}
+
+.lesimages {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.lesimages img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.blabla
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#test
+{
+    margin-left: 265px;
+
+}
+
+#test a
+{
+    color: white !important;
+    text-decoration: none !important;
+}
