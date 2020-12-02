@@ -46,3 +46,14 @@ body {
     color: white !important;
     text-decoration: none !important;
 }
+
+header{
+    background-color: #F1F1F1;
+}
+
+footer{
+    background-color: #F1F1F1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
